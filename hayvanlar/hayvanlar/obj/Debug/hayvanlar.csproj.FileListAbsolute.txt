@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hayvanlar\hayvanlar\bin\Debug\hayvanlar.exe.config
+C:\Users\User\source\repos\hayvanlar\hayvanlar\bin\Debug\hayvanlar.exe
+C:\Users\User\source\repos\hayvanlar\hayvanlar\bin\Debug\hayvanlar.pdb
+C:\Users\User\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.Form1.resources
+C:\Users\User\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.Properties.Resources.resources
+C:\Users\User\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.exe
+C:\Users\User\source\repos\hayvanlar\hayvanlar\obj\Debug\hayvanlar.pdb
